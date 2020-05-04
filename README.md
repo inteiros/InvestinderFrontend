@@ -1,5 +1,7 @@
 # InvestinderFrontend
 
+![](src/assets/logo.png)
+
 This repository contrains the Front-end application from InvesTinder!
 
 InvesTinder is an open-source application developed in JavaScript using ReactJS by João Gabriel Eler Mendes and Victor Lomba to compete in a Hackaton.
