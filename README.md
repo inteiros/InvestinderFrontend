@@ -1,5 +1,3 @@
-# InvestinderFrontend
-
 ![](investinder/src/assets/logo.png)
 
 This repository contrains the Front-end application from InvesTinder!
