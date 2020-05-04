@@ -16,6 +16,12 @@ The front-end was developed with the ReactJS framework.
 
 ## Usage
 
+After installing every dependency with yarn or npm i,
+
+```bash
+yarn start // or npm start
+```
+
 The Login page is the main page, while on it, you can navigate to the account creation page. Once the account is created, the application displays a toast indicating if the operation was a success or if there was an error, and if it was a success, the user is redirected to the main page where he can login.
 
 Once the user is logged, a Json Web Token is created and saved in local storage, where it can remain for 1 day. It means that if the user closes the application and then reopen it later, he will be already logged in.
