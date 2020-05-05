@@ -11,7 +11,7 @@ import { Container,
           ContainerCont,
           LinkContainer,
           } from './styles';
-import logoImg from '../../assets/logoInv.png';
+import logoImg from '../../assets/logo.png';
 import backgroundImg from '../../assets/circlelarge.png';
 import backgroundImg2 from '../../assets/circle-small.png';
 import api from '../../services/api';
