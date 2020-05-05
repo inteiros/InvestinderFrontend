@@ -27,6 +27,8 @@ or
 npm start
 ```
 
+## Functionality
+
 The Login page is the main page, while on it, you can navigate to the account creation page. Once the account is created, the application displays a toast indicating if the operation was a success or if there was an error, and if it was a success, the user is redirected to the main page where he can login.
 
 Once the user is logged, a Json Web Token is created and saved in local storage, where it can remain for 1 day. It means that if the user closes the application and then reopen it later, he will be already logged in.
@@ -41,4 +43,6 @@ When liking a account, the account's id is stored on the 'likes' table of the us
 
 After they get this authorization, the contact information will be displayed on the 'matches' page, and then they can use the number and e-mail displayed to contact each other and do proper business.
 
-This way, the application eases the customers capitation, the acknowledgement of the investor's risk profile and lets less experienced people enter in the finance fields, expanding its area.
+## Outcomes
+
+The application eases the customers capitation, the acknowledgement of the investor's risk profile and lets less experienced people enter in the finance fields, expanding its area.
