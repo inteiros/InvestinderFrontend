@@ -16,7 +16,7 @@ The front-end was developed with the ReactJS framework.
 
 ## Usage
 
-After installing every dependency with yarn or npm i,
+After installing every dependency with yarn or npm i, you can run the react-scripts with 
 
 ```bash
 yarn start 
