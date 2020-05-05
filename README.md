@@ -1,4 +1,4 @@
-![](investinder/src/assets/logo.png)
+![](https://i.imgur.com/9jz2SKD.png)
 
 This repository contrains the Front-end application from InvesTinder!
 
