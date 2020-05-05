@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/9jz2SKD.png)
 
-This repository contrains the Front-end application from InvesTinder!
+This repository contrains the Front-end application for InvesTinder!
 
 InvesTinder is an application developed by João Gabriel Eler Mendes and Victor Lomba in JavaScript using ReactJS to compete in a Hackaton.
 
