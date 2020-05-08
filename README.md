@@ -46,3 +46,7 @@ After they get this authorization, the contact information will be displayed on 
 ## Outcomes
 
 The application eases the customers capitation, the acknowledgement of the investor's risk profile and lets less experienced people enter in the finance fields, expanding its area.
+
+## Demo
+
+[InvesTinder presentation and demonstration (Pitch)](https://www.youtube.com/watch?v=hCjHWayLtmw "InvesTinder: Apresentação")
